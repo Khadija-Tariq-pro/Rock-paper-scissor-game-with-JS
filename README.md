@@ -15,3 +15,6 @@ A browser-based Rock Paper Scissors game built using HTML, CSS, and JavaScript. 
 - HTML5
 - CSS3
 - JavaScript (DOM Manipulation, Event Listeners, and Math.random())
+
+###Play Here:
+https://khadija-tariq-pro.github.io/Rock-paper-scissor-game-with-JS/
